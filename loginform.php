@@ -1,2 +1,2 @@
 <?php
-echo "Login Form";
+echo "Login Form arreglado";
